@@ -1,0 +1,30 @@
+/* 공통 */
+html {
+  font-size: 62.5%;
+}
+button {
+  background: inherit;
+  border: 0;
+}
+
+
+/* title */
+h3.sec_title1 {
+    font-size: 4.8rem;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+
+
+/* long img */
+
+.fixedbtn {
+  position: fixed;
+  right: 60px;
+  bottom: 50px;
+  width: 150px;
+  z-index: 99;
+  height: 160px;
+
+}
